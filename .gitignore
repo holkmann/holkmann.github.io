@@ -3,3 +3,6 @@
 .sass-cache
 _site
 Gemfile.lock
+# Ultimate-Guitar-Backups nie committen (urheberrechtlich geschützt)
+ug-backup/
+tools/ug-to-markdown/links.txt
